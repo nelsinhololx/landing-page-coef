@@ -99,3 +99,7 @@ section {
     cursor: pointer;
     transition: background-color .3s ease;
 }
+.tx {
+    text-decoration:none
+
+}
