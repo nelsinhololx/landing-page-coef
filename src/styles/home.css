@@ -57,22 +57,25 @@
     width: 64%;
     height: 100%;
     z-index: 2;
-    border-radius: 30% 30% 30% 30%;
+    
+    
 }
 
 #banner video {
-    position: center;
-    border-radius: 20% 20% 20% 20% ;
+    position: absolute;
+    border-radius: 20% 20% 20% 20%;
+    top: 72px;
+    right: 44px;
 }
 
 .shape {
     background-color: var(--color-primary-2);
-    width: 40%;
-    height: 97%;
+    width: 36%;
+    height: 72%;
     position: absolute;
-    border-radius: 30% 30% 30% 30%;
-    top: 0;
-    right: 0;
+    border-radius: 20% 20% 20% 20%;
+    top: 54px;
+    right: 26px;
     z-index: 1;
 }
 
