@@ -86,3 +86,16 @@ section {
 .section-subtitle {
     font-size: 2.1875rem;
 } 
+
+.btn-int {
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-primary-5);
+    border-radius: 30px;
+    padding: 20px 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color .3s ease;
+}
