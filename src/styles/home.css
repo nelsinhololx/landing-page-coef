@@ -57,10 +57,12 @@
     width: 64%;
     height: 100%;
     z-index: 2;
+    border-radius: 30% 30% 30% 30%;
 }
 
 #banner video {
     position: absolute;
+    border-radius: 30% 30% 30% 30%;
 }
 
 .shape {
