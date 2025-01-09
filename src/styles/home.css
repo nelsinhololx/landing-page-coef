@@ -61,8 +61,8 @@
 }
 
 #banner video {
-    position: absolute;
-    border-radius: 30% 30% 30% 30%;
+    position: center;
+    border-radius: 20% 20% 20% 20% ;
 }
 
 .shape {
